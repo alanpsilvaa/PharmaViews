@@ -26,5 +26,4 @@ Visualização das ações cadastradas em tabela dinâmica.
 Opções para exclusão de registros diretamente na interface.
 Integração com banco de dados para persistência dos dados.
 
-📝 Licença
-Este projeto é livre para uso e modificação.
+
