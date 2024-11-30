@@ -1,6 +1,7 @@
 Gestão de Verbas
 
 📋 Descrição
+
 Sistema web para cadastro e gerenciamento de ações financeiras, com suporte para registro, visualização e exclusão de dados, integrando frontend e backend com persistência em banco de dados.
 
 🛠️ Tecnologias
